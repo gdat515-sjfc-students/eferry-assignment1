@@ -48,7 +48,7 @@ Moving onto the data visulization that was shown on this site- while simple, I r
 
 While sperate from the graphic, there is also a "quick facts" that shows some number break downs and as stated, facts.
 
-![Satellites](good.png⁩)
+![good](good.png⁩)
 
 #Why I liked this graph
 
@@ -56,4 +56,7 @@ While this graph is by no means the best one out there, I liked it for its simpl
 
 Overall, I think that this graph is good, simply because it is super easy to read, and it got the change across very easily. 
 
+```{r}
+getwd()
+```
 
