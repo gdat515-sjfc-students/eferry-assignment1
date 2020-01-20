@@ -33,6 +33,12 @@ Types
 
 ![PieChart](/Users/emilyferry/Desktop/data_vis/assignment1/assignement1/bad.jpg⁩)
 
+``` r
+knitr::include_graphics('/Users/emilyferry/Desktop/data_vis/assignment1/assignement1/bad.jpg')
+```
+
+![](/Users/emilyferry/Desktop/data_vis/assignment1/assignement1/bad.jpg)<!-- -->
+
 To me this graph is bad for the following reasons:
 
 1.It is hard to tell where the arrows labeling the sections are
@@ -79,7 +85,11 @@ While sperate from the graphic, there is also a “quick facts” that shows
 some number break downs and as stated,
 facts.
 
-![good](/Users/emilyferry/Desktop/data_vis/assignment1/assignement1/good.png⁩)
+``` r
+knitr::include_graphics('/Users/emilyferry/Desktop/data_vis/assignment1/assignement1/good.png')
+```
+
+![](/Users/emilyferry/Desktop/data_vis/assignment1/assignement1/good.png)<!-- -->
 
 \#Why I liked this graph
 
@@ -90,9 +100,3 @@ the change in what states jumped on the satallite race and when etc.
 
 Overall, I think that this graph is good, simply because it is super
 easy to read, and it got the change across very easily.
-
-``` r
-getwd()
-```
-
-    ## [1] "/Users/emilyferry/Desktop/data_vis/assignment1/assignement1"

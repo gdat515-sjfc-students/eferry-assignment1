@@ -22,6 +22,10 @@ Figure 4 illustrates the contribution of each source to different node types. Fo
 #Figure 4: Data sources and Data Types 
 
 ![PieChart](/Users/emilyferry/Desktop/data_vis/assignment1/assignement1/bad.jpg⁩)
+```{r Bad Graph}
+knitr::include_graphics('/Users/emilyferry/Desktop/data_vis/assignment1/assignement1/bad.jpg')
+```
+
 
 To me this graph is bad for the following reasons: 
 
@@ -48,7 +52,11 @@ Moving onto the data visulization that was shown on this site- while simple, I r
 
 While sperate from the graphic, there is also a "quick facts" that shows some number break downs and as stated, facts.
 
-![good](/Users/emilyferry/Desktop/data_vis/assignment1/assignement1/good.png⁩)
+```{r Good Visual}
+knitr::include_graphics('/Users/emilyferry/Desktop/data_vis/assignment1/assignement1/good.png')
+```
+
+
 
 #Why I liked this graph
 
@@ -56,7 +64,4 @@ While this graph is by no means the best one out there, I liked it for its simpl
 
 Overall, I think that this graph is good, simply because it is super easy to read, and it got the change across very easily. 
 
-```{r}
-getwd()
-```
 
