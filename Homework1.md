@@ -31,7 +31,8 @@ source.
 \#Figure 4: Data sources and Data
 Types
 
-![PieChart](/Users/emilyferry/Desktop/data_vis/assignment1/assignement1/bad.jpg⁩)
+![PieChart](%22/Users/emilyferry/Desktop/data_vis/assignment1/assignement1/bad.jpg%22⁩)
+![PieChart](%22./bad.jpg%22⁩)
 
 ``` r
 knitr::include_graphics('/Users/emilyferry/Desktop/data_vis/assignment1/assignement1/bad.jpg')
