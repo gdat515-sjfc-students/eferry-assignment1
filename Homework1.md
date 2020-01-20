@@ -28,9 +28,10 @@ Australian Research Council (ARC) and National Health and Medical
 Research Council (NHMRC) that are mainly derived from the ANDS data
 source.
 
-\#Figure 4: Data sources and Data Types
+\#Figure 4: Data sources and Data
+Types
 
-![PieChart](bad.jpg⁩)
+![PieChart](/Users/emilyferry/Desktop/data_vis/assignment1/assignement1/bad.jpg⁩)
 
 To me this graph is bad for the following reasons:
 
@@ -75,9 +76,10 @@ orange, and the striped orange indicated the space launching counties
 with satellites.
 
 While sperate from the graphic, there is also a “quick facts” that shows
-some number break downs and as stated, facts.
+some number break downs and as stated,
+facts.
 
-![good](good.png⁩)
+![good](/Users/emilyferry/Desktop/data_vis/assignment1/assignement1/good.png⁩)
 
 \#Why I liked this graph
 

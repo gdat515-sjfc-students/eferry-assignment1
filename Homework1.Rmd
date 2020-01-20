@@ -21,7 +21,7 @@ Figure 4 illustrates the contribution of each source to different node types. Fo
 
 #Figure 4: Data sources and Data Types 
 
-![PieChart](bad.jpg⁩)
+![PieChart](/Users/emilyferry/Desktop/data_vis/assignment1/assignement1/bad.jpg⁩)
 
 To me this graph is bad for the following reasons: 
 
@@ -48,7 +48,7 @@ Moving onto the data visulization that was shown on this site- while simple, I r
 
 While sperate from the graphic, there is also a "quick facts" that shows some number break downs and as stated, facts.
 
-![good](good.png⁩)
+![good](/Users/emilyferry/Desktop/data_vis/assignment1/assignement1/good.png⁩)
 
 #Why I liked this graph
 
