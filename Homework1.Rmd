@@ -6,6 +6,11 @@ output:
   md_document:
     variant: gfm
 ---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(knitr)
+
+```
 
 ## A Bad Data Visulization: 
 https://www.nature.com/articles/sdata201899
@@ -22,7 +27,7 @@ Figure 4 illustrates the contribution of each source to different node types. Fo
 #Figure 4: Data sources and Data Types 
 
 ![PieChart](/Users/emilyferry/Desktop/data_vis/assignment1/assignement1/bad.jpg⁩)
-```{r Bad Graph}
+```{r Bad Graph,include=TRUE}
 knitr::include_graphics('/Users/emilyferry/Desktop/data_vis/assignment1/assignement1/bad.jpg')
 ```
 
@@ -52,7 +57,7 @@ Moving onto the data visulization that was shown on this site- while simple, I r
 
 While sperate from the graphic, there is also a "quick facts" that shows some number break downs and as stated, facts.
 
-```{r Good Visual}
+```{r Good Visual,include=TRUE}
 knitr::include_graphics('/Users/emilyferry/Desktop/data_vis/assignment1/assignement1/good.png')
 ```
 
